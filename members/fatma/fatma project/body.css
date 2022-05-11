@@ -31,6 +31,9 @@ header a
     color: #F4D03F;
     text-emphasis: none;
     font-size: 19px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
 }
 header li{
     float:right;
