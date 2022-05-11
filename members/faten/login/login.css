@@ -90,7 +90,7 @@ input[type="text"],[type="password"]{
     border: none;
     width: 250px;
     height: 35px;
-    border-bottom: 2px solid #B7950B;
+    border-bottom: 2px solid #F4D03F;
     background: none;
     padding: 1px;
     color:aliceblue;
@@ -113,7 +113,7 @@ input[type="password"]{
     position: absolute;
     top: 260px;
     left: 80px;
-    color: #B7950B;
+    color: #F4D03F;
     font-size: 18px;
  }
 
@@ -126,7 +126,7 @@ input[type="password"]{
      border: none;
      outline: none;
      color: rgb(34, 32, 33);
-     background-color: #B7950B;
+     background-color: #F4D03F;
      border-radius: 50px;
      font-family: 'Cairo',
       sans-serif;
