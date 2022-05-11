@@ -110,7 +110,7 @@ color:#000!important;
 transition: 0.5s!important;}
 
 
-*{font-family:cursive ;
+*{font-family:'Cairo', sans-serif;
     box-sizing: border-box;
     margin:0;
         padding:0;}
@@ -161,10 +161,10 @@ margin-bottom: 10px;}
 
 font-size: 15px;
 text-transform: capitalize;
-color:#d60b0b;
+color:#F4D03F;
 text-decoration:none;
 font-weight:300;
-color:#bbbbbb;
+color:#F4D03F;
 display: block;
 transition: all 0.3s ease;}
 
@@ -180,7 +180,7 @@ margin: 0 10px 10px 0;
 text-align:center;
 line-height: 40px;
 border-radius: 50%;
-color:#f51c1c;
+color:##F4D03F;
 transition: all 0.5s ease;}
 .footer-col .social-links a:hover{
 color :#fc0606;
@@ -205,7 +205,7 @@ background-color: #ffffff;}
     }
 
 .copy-rights{
- color: red;
+ color: #F4D03F;
  bottom: 0%;
  padding: 0%;
  margin-top:-6px;
