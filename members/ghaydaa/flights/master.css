@@ -149,7 +149,7 @@ content:'';
 position: absolute;
 left: 0;
 bottom: -10px;
-background-color:#fc0d5c ;
+background-color:#F4D03F;
 height: 2px;
 box-sizing: border-box;
 width:50px;}
@@ -161,10 +161,10 @@ margin-bottom: 10px;}
 
 font-size: 15px;
 text-transform: capitalize;
-color:#F4D03F;
+color:#ffffff;
 text-decoration:none;
 font-weight:300;
-color:#F4D03F;
+color:#ffffff;
 display: block;
 transition: all 0.3s ease;}
 
@@ -180,10 +180,10 @@ margin: 0 10px 10px 0;
 text-align:center;
 line-height: 40px;
 border-radius: 50%;
-color:##F4D03F;
+color:#F4D03F;
 transition: all 0.5s ease;}
 .footer-col .social-links a:hover{
-color :#fc0606;
+color :#F4D03F;
 background-color: #ffffff;}
 
 
